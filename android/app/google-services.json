@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "757551340482",
+    "project_id": "frist-app-nd",
+    "storage_bucket": "frist-app-nd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757551340482:android:8ba2759f5fde345295d45b",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgTZcwHQMbxnhCuCXAzDFZCdMjYgGpvKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757551340482:android:2d8120f6d0d4057f95d45b",
+        "android_client_info": {
+          "package_name": "com.example.first_pp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgTZcwHQMbxnhCuCXAzDFZCdMjYgGpvKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
